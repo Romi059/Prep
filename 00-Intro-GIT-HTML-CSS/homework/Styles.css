@@ -1,0 +1,19 @@
+        h1 {
+            color: pink; 
+            background-color: black;
+        }
+        img {
+            width: 400;
+        }
+        #thirdDiv {
+            width: 500;
+            height: 600;
+            background-color: cadetblue;
+            padding: 50px;
+            border: 12px solid rgb(0, 0, 0);
+        }
+        #spanid {
+            font-size: 25px;
+            margin: 50px;
+        }
+ 
